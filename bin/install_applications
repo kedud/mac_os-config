@@ -20,3 +20,6 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 # Install pip
 sudo easy_install pip
+
+# Gcloud SDK
+curl https://sdk.cloud.google.com | bash 

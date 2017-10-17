@@ -46,6 +46,8 @@ brew cask install visual-studio-code
 brew cask install vlc
 #brew cask install zoom
 
+# Docker
+brew cask install docker
 
 # Atom
 brew cask install atom

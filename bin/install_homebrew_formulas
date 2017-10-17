@@ -216,7 +216,6 @@ brew install yarn
 # Z
 brew install z
 
-
 # gcc-arm-none-eabi
 
 brew tap kedud/gnu-arm-toolchain

@@ -50,6 +50,9 @@ brew cask install vlc
 # Atom
 brew cask install atom
 
+# Slack
+brew cask install slack
+
 # nrf CLI
 brew cask install nrf5x-command-line-tools
 
